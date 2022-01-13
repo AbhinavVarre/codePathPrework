@@ -22,11 +22,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-- [ ] Added the option to change tip options
-- [ ] Added a color scheme
-- [ ] Added a settings page
-- [ ] Added an option to set the default highlighted tip
+- [x] Added the option to change tip options
+- [x] Added a color scheme
+- [x] Added a settings page
+- [x] Added an option to set the default highlighted tip
 
 ## Video Walkthrough
 
