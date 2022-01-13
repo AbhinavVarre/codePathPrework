@@ -33,7 +33,7 @@ This is the walkthrough of the App:
 
 <img src='https://imgur.com/UdVo88f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Ezgif](https://ezgif.com/video-to-gif/).
+GIF created with [onlineconverter](https://www.onlineconverter.com/convert/).
 
 ## Notes
 
