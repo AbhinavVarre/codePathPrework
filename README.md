@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 This is the walkthrough of the App:
 
-<img src='https://imgur.com/UdVo88f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AbhinavVarre/codePathStuff/blob/ea6cf14682b5acf2af3f4feb189671ea1e331c5e/Screen-Recording-2022-01-12-at-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [onlineconverter](https://www.onlineconverter.com/convert/).
 
