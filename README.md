@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 This is the walkthrough of the App:
 
-<img src='https://i.imgur.com/tnxZXyM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/UdVo88f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Ezgif](https://ezgif.com/video-to-gif/).
 
