@@ -16,6 +16,7 @@
 		384D7EA1277E9DA900E391D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 384D7E9F277E9DA900E391D3 /* LaunchScreen.storyboard */; };
 		384D7EAC277E9DAA00E391D3 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384D7EAB277E9DAA00E391D3 /* PreworkTests.swift */; };
 		384D7EB7277E9DAA00E391D3 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384D7EB6277E9DAA00E391D3 /* PreworkUITests.swift */; };
+		3855963B27842B1700A36B6C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3855963A27842B1700A36B6C /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		384D7EB2277E9DAA00E391D3 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		384D7EB6277E9DAA00E391D3 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		384D7EB8277E9DAA00E391D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3855963A27842B1700A36B6C /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				384D7E93277E9DA600E391D3 /* SceneDelegate.swift */,
 				384D7E95277E9DA600E391D3 /* ViewController.swift */,
 				384D7E97277E9DA600E391D3 /* Main.storyboard */,
+				3855963A27842B1700A36B6C /* SettingsViewController.swift */,
 				384D7E9D277E9DA900E391D3 /* Assets.xcassets */,
 				384D7E9F277E9DA900E391D3 /* LaunchScreen.storyboard */,
 				384D7EA2277E9DA900E391D3 /* Info.plist */,
@@ -264,6 +267,7 @@
 				384D7E96277E9DA600E391D3 /* ViewController.swift in Sources */,
 				384D7E92277E9DA600E391D3 /* AppDelegate.swift in Sources */,
 				384D7E9C277E9DA600E391D3 /* Prework.xcdatamodeld in Sources */,
+				3855963B27842B1700A36B6C /* SettingsViewController.swift in Sources */,
 				384D7E94277E9DA600E391D3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

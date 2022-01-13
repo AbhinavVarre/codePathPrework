@@ -76,6 +76,20 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
     }
-
+    
+    func applicationWillTerminate(_ application: UIApplication) {
+        let defaults = UserDefaults.standard
+        let time = NSDate()
+        defaults.set(time, forKey: "appCloseTime")
+        print(time)
+        defaults.synchronize()
+        print("The app has been terminated")
+    }
+    
+    func applicationDidBecomeActive(_ application: UIApplication)
+    {
+        print("Application has become active")
+    }
+    
 }
 
